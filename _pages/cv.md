@@ -20,15 +20,15 @@ Aspiring engineering student with a strong foundation in physics and math. Passi
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.3/4.0 | Graduation: 05, 2028
+  GPA: 3.3/4.0 | Graduation: May, 2028
 
 - **Medgar Evers College Preparatory School**  
   *High School Diploma*  
-  Graduation: [06, 2024]
+  Graduation: June, 2024
 
 - **Medgar Evers College**  
   *Associates in Biology*  
-  GPA: 3.836 Graduation: [05, 2024]
+  GPA: 3.836 Graduation: May, 2024
 
 ---
 
@@ -53,12 +53,12 @@ Aspiring engineering student with a strong foundation in physics and math. Passi
 
 #### Work Experience
 - **University of Florida - HuBMAP Undergraduate Researcher**  
-  May, 2025 - June, 2025
+  May, 2025 - June, 2025  
   - Analyzed histological and spatial-omics datasets using FUSION to identify cellular patterns in human organ systems.
   - Looked at samples of ovaries and observed the composition of different genes.- 
   - Reconstructed an interactive dashboard using Python that displays different tabs utilizing FUSION tools
   
-  **Medgar Evers College - STEAM Summer Institute Counselor**
+  **Medgar Evers College - Summer Institute Counselor**  
   July 2024, August 2024
   - Taught robotics, computer science, and 3D design to 30+ middle/high school students; improved engagement by creating hands-on labs. 
   - Coordinated field trips for 120 students, ensuring safety and educational value.
