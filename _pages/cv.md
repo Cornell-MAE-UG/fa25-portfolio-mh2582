@@ -28,7 +28,7 @@ Aspiring engineering student with a strong foundation in physics and math. Passi
 
 - **Medgar Evers College**  
   *Associates in Biology*  
-  GPA: 3.836 Graduation: May, 2024
+  GPA: 3.836 | Graduation: May, 2024
 
 ---
 
@@ -55,7 +55,7 @@ Aspiring engineering student with a strong foundation in physics and math. Passi
 - **University of Florida - HuBMAP Undergraduate Researcher**  
   May, 2025 - June, 2025  
   - Analyzed histological and spatial-omics datasets using FUSION to identify cellular patterns in human organ systems.
-  - Looked at samples of ovaries and observed the composition of different genes.- 
+  - Looked at samples of ovaries and observed the composition of different genes.
   - Reconstructed an interactive dashboard using Python that displays different tabs utilizing FUSION tools
   
   **Medgar Evers College - Summer Institute Counselor**  
