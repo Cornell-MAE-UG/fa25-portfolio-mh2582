@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Mehrab Hossain - Curriculum Vitae
-permalink: /Mehrab Hossain Resume/
+permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Mehrab Hossain Resume.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Mehrab Hossain Resume 2025.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [mh2582@cornell.edu](mailto:nmh2582@cornell.edu) | | | **Phone:** +1 718 913 3389
@@ -13,7 +13,7 @@ permalink: /Mehrab Hossain Resume/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in physics and math. Passionate about design and eager to apply my knowledge in real-world applications.
 
 ---
 
