@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Mehrab Hossain - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [mh2582@cornell.edu](mailto:nmh2582@cornell.edu) | | | **Phone:** +1 718 913 3389
 
 ---
 
@@ -20,18 +20,21 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.3/4.0 | Graduation: 05, 2028
 
-- **[High School Name]**  
+- **Medgar Evers College Preparatory School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [06, 2024]
+
+- **Medgar Evers College**  
+  *Associates in Biology*  
+  GPA: 3.836 Graduation: [05, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360  
+- **Programming:** Python  
 
 ---
 

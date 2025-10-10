@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Mehrab Hossain
 ---
 
 ## About Me
@@ -9,8 +9,13 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}, and I am a sophomore majoring in Mechanical Engineering. I’m an avid enjoyer of physics. I’m currently taking electromagnetism, and I plan on being a Learning Assistant for it next semester.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+I am motivated by consistency and growth. Whether I’m learning new tools like 3D modeling or taking time each day to focus on personal goals, I believe that steady progress builds long-term success. My curiosity has drawn me to prosthetics, where muscle contractions in the human body can be translated into electric signals to control movement in artificial limbs. Exploring innovations like this inspires me to continue building both technical knowledge and creative problem-solving skills.
+
+Beyond academics, I value building relationships and contributing to communities. As a youth counselor for a summer institute, I aided in teaching robotics, computer science, and 3D printing to a class of middle and high school students, fostering excitement through hands-on labs and collaborative learning. In addition, my work as a chess tournament director gave me the chance to lead events, balancing logistics, mentoring, and communication to ensure smooth, engaging experiences. These positions cultivated my leadership skills and shaped my belief of the importance of an inclusive learning environment. Just as I strive for consistency in my own development, I aim to create spaces where others can progress steadily, build confidence, and discover new skills.
+
+In my free time I enjoy drawing, anime and manga, soccer, video games, with the Legend Of Zelda being my favorite.
+
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
