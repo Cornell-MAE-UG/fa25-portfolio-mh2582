@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "assets\Mehrab-Hossain-Resume-2025.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "assets/Mehrab-Hossain-Resume-2025.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [mh2582@cornell.edu](mailto:nmh2582@cornell.edu) | | | **Phone:** +1 718 913 3389
