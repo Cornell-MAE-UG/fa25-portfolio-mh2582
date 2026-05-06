@@ -7,7 +7,7 @@ pdf: /assets/O3_ClientOutlineTemplate.pdf
 image: /assets/images/spotted-lanternfly-lycorma-delicatula-invasive-grapes-vineyard-connecticut-259912490.png
 ---
 
-A mechanical solution to remove and neutralize Spotted Lanternfly (SLF) egg masses before they hatch and lead to vineyard infestations. Approximately 90% of egg masses are deposited 8–10 feet above ground — out of reach without a ladder. Our team engineered a high-reach, pole-mounted mechanical scraper that enables safe, single-person removal from the ground, eliminating ladder use entirely.
+A mechanical solution to remove and neutralize Spotted Lanternfly (SLF) egg masses before they hatch and lead to vineyard infestations. Approximately 90% of egg masses are deposited 8–10 feet above ground. Our team engineered a high-reach, pole-mounted mechanical scraper that enables safe removal from the ground, eliminating ladder use entirely.
 
 ## Table of Contents
 - [Client Pitch](#client-pitch)
@@ -50,7 +50,7 @@ We came up with the prototype concept of an integrated handheld scraper with alc
 **Test Results:**
 - **Scraping efficacy:** >90% removal achieved consistently across simulated egg masses at heights up to 10 feet ✓
 - **Blade durability:** Less than 5mm of material loss after 40 aggressive scraping cycles with the aluminum sheet metal edge ✓
-- **Total weight:** Final prototype weighed 2.85 lbs — well within the 10 lb success criteria, keeping the moment arm manageable at full extension ✓
+- **Total weight:** Final prototype weighed 2.85 lbs, which is well within the 10 lb success criteria, keeping the moment arm manageable at full extension ✓
 - **Operational reach:** Maximum extension reaches well over 10 feet while maintaining efficacy standards ✓
 
 **Conclusion and Recommendation:** The prototype successfully met all four quantitative success criteria and is deemed field-ready. The total material cost was $263.56 of a $350 budget. The cost was significantly affected by the shaft collar and tee connector, which could be significantly reduced through in-house fabrication in a production context. We recommend proceeding to live field trials in outdoor agricultural conditions to gather real-world efficacy data against actual SLF egg masses and to assess user fatigue over a full work shift. Future development should explore geometric iterations to the scraper head for irregular surfaces, and modular attachments such as wire brushes or chemical sprayers to expand the tool's seasonal utility.
