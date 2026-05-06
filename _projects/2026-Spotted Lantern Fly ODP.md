@@ -4,8 +4,10 @@ title: Spotted Lantern Fly ODP
 description: MAE 2250 ODP
 technologies: AutoDesk Fusion360, Machine Shop
 pdf: /assets/O3_ClientOutlineTemplate.pdf
-image: /assets/images/spotted-lanternfly-lycorma-delicatula-invasive-grapes-vineyard-connecticut-259912490.png
----
+<div style="display: flex; gap: 24px; align-items: flex-start; margin-bottom: 24px;">
+  <img src="/assets/images/spotted-lanternfly-lycorma-delicatula-invasive-grapes-vineyard-connecticut-259912490.png" alt="Spotted Lanternfly" style="width: 240px; border-radius: 6px; flex-shrink: 0;">
+  <p>A mechanical solution to remove and neutralize Spotted Lanternfly (SLF) egg masses before they hatch and lead to vineyard infestations. Approximately 90% of egg masses are deposited 8–10 feet above ground. Our team engineered a high-reach, pole-mounted mechanical scraper that enables safe removal from the ground, eliminating ladder use entirely.</p>
+</div>---
 
 A mechanical solution to remove and neutralize Spotted Lanternfly (SLF) egg masses before they hatch and lead to vineyard infestations. Approximately 90% of egg masses are deposited 8–10 feet above ground. Our team engineered a high-reach, pole-mounted mechanical scraper that enables safe removal from the ground, eliminating ladder use entirely.
 
