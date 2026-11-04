@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Spotted Lantern Fly ODP
-description: MAE 2250 ODP
-technologies: AutoDesk Fusion360, Machine Shop
-pdf: /assets/O3_ClientOutlineTemplate.pdf
+title: Fluid- Mechanical Dissection
+description: fluids hw 9
+technologies: N/A
+pdf: N/A
 image: /assets/images/blue-vortex-in-water-royalty-free-image-1579026344.avif
 ---
 
